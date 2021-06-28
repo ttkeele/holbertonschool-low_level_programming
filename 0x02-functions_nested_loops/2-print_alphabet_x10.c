@@ -1,13 +1,7 @@
 #include "holberton.h"
-/**
- *print_alphabet_x10 - prints the alphabet 10 times
- * @letter: the character to be checked
- *
- * Return: 0
- */
 
 /**
- * prints 10 times the alphabet, in lowercase
+ * print_alphabet_x10 - Prints 10 times the alphabet, in lowercase.
  */
 void print_alphabet_x10(void)
 {
